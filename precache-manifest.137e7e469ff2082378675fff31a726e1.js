@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/ivan_ananiev.bb05b04a.png"
   },
   {
-    "revision": "a247e145ed532706ca0d",
+    "revision": "3d799a848aa30fae28c8",
     "url": "/static/css/main.9ba0b75e.chunk.css"
   },
   {
@@ -96,8 +96,8 @@ self.__precacheManifest = [
     "url": "/static/media/ilya_eremin.3302631f.png"
   },
   {
-    "revision": "a247e145ed532706ca0d",
-    "url": "/static/js/main.a247e145.chunk.js"
+    "revision": "3d799a848aa30fae28c8",
+    "url": "/static/js/main.3d799a84.chunk.js"
   },
   {
     "revision": "6942f9ebf8746018134552e7a7abdf90",
@@ -141,7 +141,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "b585fb13cb9986a98cccdd37cfd6ef85",
-    "url": "/static/media/pavel_kanin.b585fb13.png"
+    "url": "/static/media/pavel_kanov.b585fb13.png"
   },
   {
     "revision": "2d8cbce16c2b784c386c77221270a21e",
@@ -192,7 +192,7 @@ self.__precacheManifest = [
     "url": "/static/media/yaroslav_sudnik.0f598d61.png"
   },
   {
-    "revision": "34f7773a253f27979656a47cfe37dcb7",
+    "revision": "ea5041b4b678326789d609463f1c55f5",
     "url": "/index.html"
   }
 ];

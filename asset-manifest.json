@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.9ba0b75e.chunk.css",
-  "main.js": "/static/js/main.a247e145.chunk.js",
-  "main.js.map": "/static/js/main.a247e145.chunk.js.map",
+  "main.js": "/static/js/main.3d799a84.chunk.js",
+  "main.js.map": "/static/js/main.3d799a84.chunk.js.map",
   "static/js/1.e511e27a.chunk.js": "/static/js/1.e511e27a.chunk.js",
   "static/js/1.e511e27a.chunk.js.map": "/static/js/1.e511e27a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -37,7 +37,7 @@
   "static/media/nikita_asabin.png": "/static/media/nikita_asabin.94755fad.png",
   "static/media/oleg_gorelov.png": "/static/media/oleg_gorelov.20c663ce.png",
   "static/media/oleg_kurnosov.png": "/static/media/oleg_kurnosov.8c7685e2.png",
-  "static/media/pavel_kanin.png": "/static/media/pavel_kanin.b585fb13.png",
+  "static/media/pavel_kanov.png": "/static/media/pavel_kanov.b585fb13.png",
   "static/media/ravil_vildanov.png": "/static/media/ravil_vildanov.2d8cbce1.png",
   "static/media/rinat_mukhammetzyanov.png": "/static/media/rinat_mukhammetzyanov.2aca4150.png",
   "static/media/rishat_yakushev.png": "/static/media/rishat_yakushev.338cbc32.png",
@@ -52,6 +52,6 @@
   "static/media/yaroslav_sudnik.png": "/static/media/yaroslav_sudnik.0f598d61.png",
   "static/css/main.9ba0b75e.chunk.css.map": "/static/css/main.9ba0b75e.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.57f7cd365307e33658ae76752231ae96.js": "/precache-manifest.57f7cd365307e33658ae76752231ae96.js",
+  "precache-manifest.137e7e469ff2082378675fff31a726e1.js": "/precache-manifest.137e7e469ff2082378675fff31a726e1.js",
   "service-worker.js": "/service-worker.js"
 }
