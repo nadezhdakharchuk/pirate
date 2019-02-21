@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.9ba0b75e.chunk.css",
-  "main.js": "/static/js/main.66761c21.chunk.js",
-  "main.js.map": "/static/js/main.66761c21.chunk.js.map",
+  "main.css": "/static/css/main.cbe774d7.chunk.css",
+  "main.js": "/static/js/main.980f2057.chunk.js",
+  "main.js.map": "/static/js/main.980f2057.chunk.js.map",
   "static/js/1.e511e27a.chunk.js": "/static/js/1.e511e27a.chunk.js",
   "static/js/1.e511e27a.chunk.js.map": "/static/js/1.e511e27a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -50,8 +50,8 @@
   "static/media/vladimir_bazhanov.png": "/static/media/vladimir_bazhanov.0f85c82d.png",
   "static/media/vladislav_nikoshnov.png": "/static/media/vladislav_nikoshnov.d41d9fea.png",
   "static/media/yaroslav_sudnik.png": "/static/media/yaroslav_sudnik.0f598d61.png",
-  "static/css/main.9ba0b75e.chunk.css.map": "/static/css/main.9ba0b75e.chunk.css.map",
+  "static/css/main.cbe774d7.chunk.css.map": "/static/css/main.cbe774d7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.cdb303bbb7c49da98fc91af202904bcc.js": "/precache-manifest.cdb303bbb7c49da98fc91af202904bcc.js",
+  "precache-manifest.3e6f63a1fe6e8a6cb0e2837748633990.js": "/precache-manifest.3e6f63a1fe6e8a6cb0e2837748633990.js",
   "service-worker.js": "/service-worker.js"
 }
